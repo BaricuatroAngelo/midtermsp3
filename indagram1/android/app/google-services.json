@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "2731628059",
+    "project_id": "midterm-indagram",
+    "storage_bucket": "midterm-indagram.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:2731628059:android:4ad9e9414b0e8673170abe",
+        "android_client_info": {
+          "package_name": "com.example.indagram1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "2731628059-4v5qhciu1v3oog8i6v7o8k4j446ccs2f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDp0x_JIt212YvBt9tACGPl5n_LYXHvx0s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "2731628059-4v5qhciu1v3oog8i6v7o8k4j446ccs2f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
